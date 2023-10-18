@@ -2,7 +2,7 @@
 
 # Config nginx vhost
 
-**configation d'un vhost nginx par default
+**configation d'un vhost nginx par default**
 
 
 # Installations du vhost
@@ -13,17 +13,19 @@
 nano /etc/nginx/sites-available/domaine.tld.conf
 ```
 
-(2) puis on configure le fichier
+(2) puis on configure le fichier 
  
-```
-```
 (3) ensuite on copier le contenue dedans
  
 ```
 ctrl + x puis yes 
 ```
-
-(4) maintenant on test est on redemarre nginx
+(4) puis on copier le ficher dans le ( /etc/nginx/sites-enabled )
+ 
+```
+ sudo ln -s /etc/nginx/sites-available/domaine.tld.conf /etc/nginx/sites-enabled/
+``` 
+(5) maintenant on test est on redemarre nginx
  
 ```
  sudo nginx -t && sudo systemctl restart nginx
