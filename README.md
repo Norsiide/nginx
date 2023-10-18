@@ -3,7 +3,7 @@
 # Config nginx vhost
 
 **configation d'un vhost nginx par default**
-
+d
 
 # Installations du vhost
 
