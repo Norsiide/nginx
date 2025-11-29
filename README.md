@@ -1,11 +1,9 @@
-<p align="center"><img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" width="100" alt="norsiide"></p>
+<p align="center"><img src="https://blog.desdelinux.net/wp-content/uploads/2022/05/Nginx.jpg" width="auto" alt="norsiide"></p>
 
 ### Lien utiles
 
 * **Discord** : [Rejoins notre communauté](https://discord.gg/EV3fAhFZJT)
 * **Website** : [Plus d'information](https://norsiide.be)
-
-* **lien du bot** : [Lien officiel du créateur](https://github.com/eritislami/evobot)
  
 **configation d'un vhost nginx par default**
 
