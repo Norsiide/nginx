@@ -1,12 +1,11 @@
 <p align="center"><img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" width="100" alt="norsiide"></p>
 
-## Config nginx vhost
-[![WebSite](https://img.shields.io/website?down_message=Offline&label=WebSite&up_message=Online&url=https%3A%2F%2Fnorsiide.be)](https://norsiide.be)
-[![Discord](https://img.shields.io/discord/1126981605785866341?color=5865f2&label=Discord&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/EV3fAhFZJT)
-* **Contact**
-    - Discord [Rejoin notre communauté](https://discord.gg/EV3fAhFZJT)
-    - Facebook [Suis nous](https://www.facebook.com/norsiide.dev/)
-    - Twitter ( X ) [Follow nous](https://twitter.com/norsiide)
+### Lien utiles
+
+* **Discord** : [Rejoins notre communauté](https://discord.gg/EV3fAhFZJT)
+* **Website** : [Plus d'information](https://norsiide.be)
+
+* **lien du bot** : [Lien officiel du créateur](https://github.com/eritislami/evobot)
  
 **configation d'un vhost nginx par default**
 
